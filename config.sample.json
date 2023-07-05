@@ -1,0 +1,19 @@
+{
+	"thisServer": {
+		"port": 4000,
+		"hostName": null,
+		"siteUrl": "http://localhost:4000"
+	},
+	"sqliteFiles": {
+		"primary": "data/chap.db"
+	},
+	"themeDir": "theme",
+	"log": {
+		"level": "debug"
+	},
+	"jwtConstants": {
+		"secret": "secret",
+		"expiresIn": "1d"
+	},
+	"production": false
+}
